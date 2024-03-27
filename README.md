@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋, I am Chahat Kesharwani, from NIT Jalandhar</h2>
+<h2 align="left">Hi, I am Chahat Kesharwani, from NIT Jalandhar</h2>
 
 ###
 ![](https://github-readme-stats.vercel.app/api?username=chahatkesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
