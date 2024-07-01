@@ -1,9 +1,3 @@
-<h2 align="left">Hi, I am Chahat Kesharwani, from NIT Jalandhar</h2>
-
-###
-![](https://github-readme-stats.vercel.app/api?username=chahatkesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&hide_border=true)<br/>
-###
 
 <div align="left">
   <h2>My ToolBox 💻</h2>
