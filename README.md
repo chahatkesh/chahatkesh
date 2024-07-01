@@ -1,9 +1,14 @@
-<h2 align="left">Git Stat's 📊</h2>
+### Hi there 👋
+- ✨ Engineering Student (Btech-27) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+- 🌱 Currently learning FullStack Development.
+- ⚡  Looking to collaborate on developmental projects which can make life easier!
+- 📫  Reach me at chahatk.ic.23@nitj.ac.in, ckesharwani4@gmail.com
 
-###
-![](https://github-readme-stats.vercel.app/api?username=chahatkesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&hide_border=true)<br/>
-###
+Free Quotes:
+- "Code a day, keep evils away"
+- "Always work with heart! Everyone has got brain, only few can work with heart and brain"
+- "Set high standard for your work! Then you have to work to satisfy only yourself"
+
 
 <div align="left">
   <h2>My ToolBox 💻</h2>
@@ -51,6 +56,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="node logo"  />
   <img width="12" /><br/>
 </div>
+
+<h2>Github's Stats 📊</h2>
+
+###
+![](https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&hide_border=true)<br/>
+###
+
+
 
 <h2>Languages in My Code Adventures ⏱️</h2>
 
