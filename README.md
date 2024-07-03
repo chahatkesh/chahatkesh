@@ -58,15 +58,7 @@ Free Quotes:
 </div>
 
 <h2>Github's Stats 📊</h2>
-
-###
-![](https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&hide_border=true)<br/>
-###
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" /></p>
 <h2>Languages in My Code Adventures ⏱️</h2>
-
-###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahatkesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="chahatkesh" /></p>
