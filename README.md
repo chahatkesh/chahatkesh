@@ -37,7 +37,7 @@ Free Quotes:
 
 
 <div align="left">
-  <h2>Web Tech-Stack I Know 😎</h2>
+  <h2>Web techstack, I know 😎</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -61,7 +61,7 @@ Free Quotes:
 </div>
 
 <h2>Github's Stats 📊</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" />
 <h2>Languages in My Code Adventures ⏱️</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="chahatkesh" /></p>
