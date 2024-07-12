@@ -18,6 +18,10 @@ Free Quotes:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" alt="netlify logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo"  />
@@ -61,7 +65,9 @@ Free Quotes:
 </div>
 
 <h2>Github's Stats 📊</h2>
+<div align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" />
+</div>
 <h2>Languages in My Code Adventures ⏱️</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="chahatkesh" /></p>
