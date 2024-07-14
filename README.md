@@ -65,9 +65,8 @@ Free Quotes:
 </div>
 
 <h2>Github's Stats 📊</h2>
-<div align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" /></p>
+
 <h2>Languages in My Code Adventures ⏱️</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="chahatkesh" /></p>
