@@ -16,7 +16,7 @@
 
 - 🔧 Building **market-level products** that blend **AI, performance, and clean UI/UX**
 - 🚀 Currently working on exciting stuff while constantly learning and experimenting
-- 🧩 100+ LeetCode problems solved | Solid grip on **DSA & System Design**
+- 🧩 100+ LeetCode problems solved | Solid grip on **DSA & Learning System Design**
 - 💬 Ask me about **full-stack development, AI agents, LangChain, or crafting great UX**
 - 🤝 Always open to **freelance gigs, internships, and product collaborations**
 
