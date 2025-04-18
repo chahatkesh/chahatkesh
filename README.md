@@ -1,72 +1,136 @@
-### Hi there 👋
-- ✨ Engineering Student (Btech-27) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-- 🌱 Currently learning FullStack Development.
-- ⚡  Looking to collaborate on developmental projects which can make life easier!
-- 📫  Reach me at chahatk.ic.23@nitj.ac.in, ckesharwani4@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="banner-gif" />
+</p>
 
-Free Quotes:
-- "Code a day, keep evils away"
-- "Always work with heart! Everyone has got brain, only few can work with heart and brain"
-- "Set high standard for your work! Then you have to work to satisfy only yourself"
+<h1 align="center">Hey there 👋, I'm Chahat Kesharwani</h1>
+<h3 align="center">Full-Stack Developer • UI/UX Enthusiast • Turning Ideas into Scalable, User-Centric Products 🚀</h3>
 
+<p align="center">
+  <a href="https://chahatkesh.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chahatkesharwani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/chahatkesh" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@chahatkesh" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://youtube.com/chahatkesh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:ckesharwani4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div align="left">
-  <h2>My ToolBox 💻</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo"  />
-</div>
+---
 
- 
-<div align="left">
-  <h2>Code-Speak I'm Fluent In 🤟</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+### 🧠 About Me
 
+- 🔧 Building **market-level products** that blend **AI, performance, and clean UI/UX**
+- 🚀 Currently working on exciting stuff while constantly learning and experimenting
+- 🧩 100+ LeetCode problems solved | Solid grip on **DSA & System Design**
+- 💬 Ask me about **full-stack development, AI agents, LangChain, or crafting great UX**
+- 🤝 Always open to **freelance gigs, internships, and product collaborations**
 
-<div align="left">
-  <h2>Web techstack, I know 😎</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="node logo"  />
-  <img width="12" /><br/>
-</div>
+---
 
-<h2>Github's Stats 📊</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=dark&bg_color=000000" alt="chahatkesh" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="chahatkesh" /></p>
+### 🛠️ Tech Stack & Tools
 
-<h2>Languages in My Code Adventures ⏱️</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chahatkesh&show_icons=true&theme=dark&bg_color=000000&locale=en&layout=compact" alt="chahatkesh" /></p>
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logo=shadcn&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-000000?style=flat&logo=framer&logoColor=white)
+
+**Backend & APIs**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Productivity & Collaboration**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 [RepoCraft](https://github.com/chahatkesh/repocraft)
+Auto-generates stunning GitHub READMEs with OpenAI & GitHub APIs.  
+🔧 Used by 50+ devs | ✨ AI-powered | ⚡ 75% faster documentation
+
+#### 🔹 [Servolend AI](https://github.com/chahatkesh/servolend-hacktu)
+Smart loan origination with AI-driven risk analysis & role-based access.  
+🔍 Gemini + LangChain | 🧠 AI risk checks | 🏢 Multi-tenant support
+
+#### 🔹 [Webmark](https://github.com/chahatkesh/webmark)
+Encrypted bookmark manager with real-time drag-and-drop UX.  
+🔐 AES encryption | 📱 Responsive | 👥 57 active users
+
+🎥 See project demos on [YouTube](https://youtube.com/chahatkesh)
+
+---
+
+### 💼 Experience
+
+**🔧 Full-Stack Dev Intern @ Level SuperMind**  
+- Built 15+ reusable components and streamlined onboarding  
+- Integrated AI APIs and 5+ third-party services  
+*Stack: Next.js, TypeScript, Tailwind, ShadCN, LiveKit, Framer Motion*
+
+**🎓 Frontend Dev @ Xceed, NITJ**  
+- Built a scalable certificate generator using `html2canvas`  
+- Generated 1,000+ dynamic PDFs in one go  
+*Stack: React, Chakra UI, Tailwind, Framer Motion*
+
+---
+
+### 🏆 Highlights & Achievements
+
+🥇 **Figma Fiesta Winner** – 1st Place  
+🥈 **Level SuperMind Hackathon** – Runner-up  
+🚀 **Code Kshetra Finalist** – Built *Satark*, an AI-powered legal assistant
+
+---
+
+### ✍️ Blogs & Writing
+
+📝 Just an engineering student navigating code and college — sharing wins, blunders, and lessons along the way! I post side projects and dev tips on [Medium](https://medium.com/@chahatkesh). 
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahatkesh&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to chatting about tech, startups, collabs, or just brainstorming cool ideas.  
+📬 Email me: **ckesharwani4@gmail.com**  
+🌐 Portfolio: [chahatkesh.me](https://chahatkesh.vercel.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chahatkesh&label=Profile+Views&color=blue&style=flat" />
+</p>
