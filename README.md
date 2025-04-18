@@ -67,24 +67,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🔹 [RepoCraft](https://github.com/chahatkesh/repocraft)
-Auto-generates stunning GitHub READMEs with OpenAI & GitHub APIs.  
-🔧 Used by 50+ devs | ✨ AI-powered | ⚡ 75% faster documentation
-
-#### 🔹 [Servolend AI](https://github.com/chahatkesh/servolend-hacktu)
-Smart loan origination with AI-driven risk analysis & role-based access.  
-🔍 Gemini + LangChain | 🧠 AI risk checks | 🏢 Multi-tenant support
-
-#### 🔹 [Webmark](https://github.com/chahatkesh/webmark)
-Encrypted bookmark manager with real-time drag-and-drop UX.  
-🔐 AES encryption | 📱 Responsive | 👥 57 active users
-
-🎥 See project demos on [YouTube](https://youtube.com/chahatkesh)
-
----
-
 ### 💼 Experience
 
 **🔧 Full-Stack Dev Intern @ Level SuperMind**  
