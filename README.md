@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • UI/UX Enthusiast • Turning Ideas into Scalable, User-Centric Products 🚀</h3>
 
 <p align="center">
-  <a href="https://chahatkesh.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://chahatkesh.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chahatkesharwani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/chahatkesh" target="_blank"><img src="https://img.shields.io/badge/X(Twitter)-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@chahatkesh" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -105,7 +105,7 @@
 
 I'm always open to chatting about tech, startups, collabs, or just brainstorming cool ideas.  
 📬 Email me: **ckesharwani4@gmail.com**  
-🌐 Portfolio: [chahatkesh.me](https://chahatkesh.vercel.com)
+🌐 Portfolio: [chahatkesh.me](https://chahatkesh.me)
 
 ---
 
