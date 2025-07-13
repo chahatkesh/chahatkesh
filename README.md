@@ -10,18 +10,6 @@
   <a href="mailto:ckesharwani4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 🧠 About Me
-
-- 🔧 Building **market-level products** that blend **AI, performance, and clean UI/UX**
-- 🚀 Currently working on exciting stuff while constantly learning and experimenting
-- 🧩 100+ LeetCode problems solved | Solid grip on **DSA & Learning System Design**
-- 💬 Ask me about **full-stack development, AI agents, LangChain, or crafting great UX**
-- 🤝 Always open to **freelance gigs, internships, and product collaborations**
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages**  
@@ -65,31 +53,12 @@
 
 ### 💼 Experience
 
-**🔧 Full-Stack Dev Intern @ Level SuperMind**  
-- Built 15+ reusable components and streamlined onboarding  
-- Integrated AI APIs and 5+ third-party services  
-*Stack: Next.js, TypeScript, Tailwind, ShadCN, LiveKit, Framer Motion*
+[![AI Research Intern @ Annam AI, IIT Ropar](https://img.shields.io/badge/AI_Research_Intern-Annam_AI,_IIT_Ropar-blue?style=for-the-badge&logo=ai)](https://www.annam.ai/)
 
-**🎓 Frontend Dev @ Xceed, NITJ**  
-- Built a scalable certificate generator using `html2canvas`  
-- Generated 1,000+ dynamic PDFs in one go  
-*Stack: React, Chakra UI, Tailwind, Framer Motion*
+[![Full-Stack Dev Intern @ Level SuperMind](https://img.shields.io/badge/Full--Stack_Dev_Intern-Level_SuperMind-orange?style=for-the-badge&logo=javascript)](https://www.level.game/)
 
----
+[![Frontend Dev @ Xceed, NITJ](https://img.shields.io/badge/Frontend_Dev-Xceed,_NITJ-9cf?style=for-the-badge&logo=react)](https://xceed.nitj.ac.in/)
 
-### 🏆 Highlights & Achievements
-
-🥇 **Figma Fiesta Winner** – 1st Place  
-🥈 **Level SuperMind Hackathon** – Runner-up  
-🚀 **Code Kshetra Finalist** – Built *Satark*, an AI-powered legal assistant
-
----
-
-### ✍️ Blogs & Writing
-
-📝 Just an engineering student navigating code and college — sharing wins, blunders, and lessons along the way! I post side projects and dev tips on [Medium](https://medium.com/@chahatkesh). 
-
----
 
 ### 📈 GitHub Stats
 
