@@ -51,21 +51,27 @@
 
 ---
 
-### 💼 Experience
+### Experience
 
-[![AI Research Intern @ Annam AI, IIT Ropar](https://img.shields.io/badge/AI_Research_Intern-Annam_AI,_IIT_Ropar-blue?style=for-the-badge&logo=ai)](https://www.annam.ai/)
+- **Entrepreneur in Residence @ [iHub AWaDH, IIT Ropar](https://ihub-awadh.in/)**  
+  Engaged in innovation-driven research and startup ideation under iHub AWaDH’s incubation ecosystem.
 
-[![Full-Stack Dev Intern @ Level SuperMind](https://img.shields.io/badge/Full--Stack_Dev_Intern-Level_SuperMind-orange?style=for-the-badge&logo=javascript)](https://www.level.game/)
+- **AI Research Intern @ [Annam AI, IIT Ropar](https://www.annam.ai/)**  
+  Contributed to modular AI pipelines for classification and inference accuracy improvement.
 
-[![Frontend Dev @ Xceed, NITJ](https://img.shields.io/badge/Frontend_Dev-Xceed,_NITJ-9cf?style=for-the-badge&logo=react)](https://xceed.nitj.ac.in/)
+- **Full-Stack Developer Intern @ [Level SuperMind](https://www.level.game/)**  
+  Built reusable UI components and optimized API flows to enhance product performance.
+
+- **Frontend Developer @ [Xceed, NIT Jalandhar](https://xceed.nitj.ac.in/)**  
+  Designed and deployed a certificate generation module used by 20+ college clubs.
+
+---
 
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chahatkesh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkesh&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahatkesh&layout=compact&theme=radical" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chahatkesh&theme=transparent&hide_border=true" height="160px"/>
 </p>
 
 ---
