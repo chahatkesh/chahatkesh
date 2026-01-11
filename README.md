@@ -13,8 +13,6 @@ I design and develop scalable, production-ready systems that solve real problems
 
 Currently building **Ninja at Zenbase Technologies (Singapore)** as a Founding Engineer, where I'm architecting a production-ready AI-powered sales automation and CRM platform for real-estate agents. I'm also an **Entrepreneur in Residence at iHub AwaDH (IIT Ropar)**, developing AI-powered solutions for real-world problems under IIT Ropar's incubation ecosystem.
 
-Previously, I worked on optimizing ML pipelines and building modular AI systems at **Annam.ai (IIT Ropar)** as a Research Intern, where I improved inference accuracy through data modeling. I've also built 15+ reusable UI components at **Level SuperMind**, achieving 30% faster load times, and developed a certificate generation module at **Xceed, NIT Jalandhar** that's now used by 20+ college clubs.
-
 My focus lies in frontend architecture, building intuitive user interfaces, and optimizing for performance at scale. I enjoy solving problems that bridge the gap between design, product, and engineering.
 
 ## Experience
