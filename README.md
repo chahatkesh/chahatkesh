@@ -9,11 +9,11 @@
   <a href="mailto:ckesharwani4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square"></a>
 </p>
 
-I design and develop scalable, production-ready systems that solve real problems. My work focuses on building AI-driven platforms, architecting full-stack applications, and creating user-centric interfaces that balance performance with functionality. I thrive on turning complex challenges into elegant solutions through clean code, thoughtful design, and modern engineering practices.
+I build production-ready web applications as a full-stack developer with frontend expertise. My focus is on creating scalable, performant user interfaces backed by solid engineering principles — clean code, maintainable architecture, and industry-standard practices. My approach balances beautiful, intuitive user experiences with solid technical foundations.
 
 Currently building **Ninja at Zenbase Technologies (Singapore)** as a Founding Engineer, where I'm architecting a production-ready AI-powered sales automation and CRM platform for real-estate agents. I'm also an **Entrepreneur in Residence at iHub AwaDH (IIT Ropar)**, developing AI-powered solutions for real-world problems under IIT Ropar's incubation ecosystem.
 
-My focus lies in frontend architecture, building intuitive user interfaces, and optimizing for performance at scale. I enjoy solving problems that bridge the gap between design, product, and engineering.
+Previously, I worked on optimizing ML pipelines and building modular AI systems at **Annam.ai (IIT Ropar)** as a Research Intern, where I improved inference accuracy through data modeling. I've also built 15+ reusable UI components at **Level SuperMind**, achieving 30% faster load times, and developed a certificate generation module at **Xceed, NIT Jalandhar** that's now used by 20+ college clubs.
 
 ## Experience
 
@@ -32,7 +32,7 @@ Built 15+ reusable UI components and integrated APIs, achieving 30% faster load 
 ## What I work with
 
 **Languages & Frameworks:** TypeScript, JavaScript, Python, C++, React, Next.js, Node.js, Express.js, FastAPI, Flutter  
-**Databases & Infrastructure:** MongoDB, PostgreSQL, Redis, AWS, Docker, Vercel
+**Databases & Infrastructure:** MongoDB, PostgreSQL, Redis, AWS, Docker, Vercel  
 **Also explored:** Tailwind CSS, Framer Motion, OpenAI API, LangChain, Stripe, GitHub Actions
 
 Technology is just a means to an end, I focus on solving the right problems with the right tools.
