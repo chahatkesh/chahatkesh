@@ -11,16 +11,16 @@
 
 I build production-ready web applications as a full-stack developer with frontend expertise. My focus is on creating scalable, performant user interfaces backed by solid engineering principles — clean code, maintainable architecture, and industry-standard practices. My approach balances beautiful, intuitive user experiences with solid technical foundations.
 
-Currently building **Ninja at Zenbase Technologies (Singapore)** as a Founding Engineer, where I'm architecting a production-ready AI-powered sales automation and CRM platform for real-estate agents. I'm also an **Entrepreneur in Residence at iHub AwaDH (IIT Ropar)**, developing AI-powered solutions for real-world problems under IIT Ropar's incubation ecosystem.
+Currently building **Ninja at Zenbase Technologies (Singapore)** as a Founding Engineer, where I'm architecting a production-ready AI-powered sales automation and CRM platform for real-estate agents.
 
-Previously, I worked on optimizing ML pipelines and building modular AI systems at **Annam.ai (IIT Ropar)** as a Research Intern, where I improved inference accuracy through data modeling. I've also built 15+ reusable UI components at **Level SuperMind**, achieving 30% faster load times, and developed a certificate generation module at **Xceed, NIT Jalandhar** that's now used by 20+ college clubs.
+Previously, I worked as an Entrepreneur in Residence and Research Intern at Annam.ai (IIT Ropar), where I built AI-powered solutions and optimized ML pipelines, improving inference accuracy through better data modeling. Additionally, I built 15+ reusable UI components at Level SuperMind, achieving 30% faster load times, and developed a certificate generation module at Xceed, NIT Jalandhar that’s now used by 20+ college clubs.
 
 ## Experience
 
 **Zenbase Technologies** | Founding Engineer (Frontend) | Dec 2025 - Present  
-**iHub AwaDH, IIT Ropar** | Entrepreneur in Residence | Oct 2025 - Present  
-**Annam.ai, IIT Ropar** | Research Intern - AI Systems | May 2025 - Oct 2025  
-**Level SuperMind** | Fullstack Developer | Jan 2025 - Feb 2025  
+**Annam.ai, IIT Ropar** | Entrepreneur in Residence | Oct 2025 - Mar 2026  
+**Annam.ai, IIT Ropar** | Research Intern - AI Systems | May 2025 - Oct 2025
+**Level SuperMind** | Fullstack Developer | Jan 2025 - Feb 2025
 
 ## What I work with
 
