@@ -17,10 +17,10 @@ Previously, I worked as an Entrepreneur in Residence and Research Intern at Anna
 
 ## Experience
 
-**Zenbase Technologies** | Founding Engineer (Frontend) | Dec 2025 - May 2026  
-**Annam.ai, IIT Ropar** | Entrepreneur in Residence | Oct 2025 - Mar 2026  
-**Annam.ai, IIT Ropar** | Research Intern - AI Systems | May 2025 - Oct 2025
-**Level SuperMind** | Fullstack Developer | Jan 2025 - Feb 2025
+**Zenbase Technologies** | Founding Engineer (Frontend) | Dec 2025 - May 2026 <br>
+**Annam.ai, IIT Ropar** | Entrepreneur in Residence | Oct 2025 - Mar 2026 <br>
+**Annam.ai, IIT Ropar** | Research Intern - AI Systems | May 2025 - Oct 2025 <br>
+**Level SuperMind** | Fullstack Developer | Jan 2025 - Feb 2025 <br>
 **Xceed NITJ** | Fullstack Developer | Nov 2023 - Jun 2024
 
 ## What I work with
