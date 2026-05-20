@@ -11,7 +11,7 @@
 
 I build production-ready web applications as a full-stack developer with frontend expertise. My focus is on creating scalable, performant user interfaces backed by solid engineering principles — clean code, maintainable architecture, and industry-standard practices. My approach balances beautiful, intuitive user experiences with solid technical foundations.
 
-Currently building **Ninja at Zenbase Technologies (Singapore)** as a Founding Engineer, where I'm architecting a production-ready AI-powered sales automation and CRM platform for real-estate agents.
+Right now I'm looking for a summer internship. I previously worked at **Zenbase** as a **Founding Frontend Engineer**, building Ninja, an AI platform that turns real estate agents into high performers.
 
 Previously, I worked as an Entrepreneur in Residence and Research Intern at Annam.ai (IIT Ropar), where I built AI-powered solutions and optimized ML pipelines, improving inference accuracy through better data modeling. Additionally, I built 15+ reusable UI components at Level SuperMind, achieving 30% faster load times, and developed a certificate generation module at Xceed, NIT Jalandhar that’s now used by 20+ college clubs.
 
