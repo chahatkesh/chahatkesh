@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/chahatkesharwani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
   <a href="https://chahatkesh.me/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/chahatkesh.me-00adb5?style=flat-square"></a>
-  <a href="https://chahatkesh.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-2962FF?style=flat-square"></a>
   <a href="https://x.com/chahatkesh" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-FFFFFF?style=flat-square"></a>
   <a href="https://youtube.com/chahatkesh" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square"></a>
   <a href="mailto:ckesharwani4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square"></a>
